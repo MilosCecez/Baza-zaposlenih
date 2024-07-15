@@ -1,0 +1,1 @@
+UPDATE zaposleni SET departman_id = 2 WHERE ime LIKE '%v%';
